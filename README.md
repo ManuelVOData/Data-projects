@@ -26,7 +26,8 @@ This repository includes hands-on exercises focused on:
 - scikit-learn
 - seaborn, matplotlib
 - Jupyter Notebook
-- PowerBI
+- Power BI
 ---
 
 >  This repository is part of my professional portfolio and is aimed at demonstrating my technical and analytical skills in a clear and organized way.
+>  **I'm open to collaborating, learning, and growing in the world of data analytics and machine learning.**
